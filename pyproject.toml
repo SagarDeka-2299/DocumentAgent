@@ -12,15 +12,10 @@ dependencies = [
     "fastapi>=0.128.0",
     "langchain>=1.2.3",
     "langchain-community>=0.4.1",
-    "langchain-pinecone>=0.2.13",
+    "langchain-openai>=1.1.7",
     "langgraph>=1.0.5",
-    "matplotlib>=3.10.8",
-    "pinecone-text>=0.11.0",
-    "seaborn>=0.13.2",
     "uvicorn>=0.34.0",
 ]
 
 [dependency-groups]
-dev = [
-    "ipykernel>=7.1.0",
-]
+dev = []
