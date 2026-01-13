@@ -2,7 +2,7 @@
 
 A production-grade RAG-based AI Agent deployed on Azure, utilizing a multi-agent orchestrator to provide high-fidelity answers from internal enterprise documents.
 
-![Architecture Diagram](resources/diagram.png)
+![Architecture Diagram](resources/flow.png)
 
 ## Architecture & Decision Log
 
