@@ -4,8 +4,6 @@ A production-grade RAG-based AI Agent deployed on Azure, utilizing a multi-agent
 
 ![Architecture Diagram](resources/flow.png)
 
-## Live at [Azure 🔗](https://doagent-hbcwaxgzhxdddvax.centralus-01.azurewebsites.net/)
-
 ![Demo Diagram](resources/route.png)
 
 ![Demo Diagram](resources/request.png)
